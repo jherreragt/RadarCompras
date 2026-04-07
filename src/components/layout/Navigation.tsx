@@ -23,7 +23,7 @@ interface NavigationProps {
 const navItems = [
   { id: 'search', label: 'Buscar', icon: Search },
   { id: 'opportunities', label: 'Oportunidades', icon: Radar },
-  { id: 'analytics', label: 'Analytics', icon: BarChart3 },
+  { id: 'analytics', label: 'Estadísticas', icon: BarChart3 },
   { id: 'trends', label: 'Tendencias', icon: TrendingUp },
   { id: 'docs', label: 'Documentación', icon: Book },
 ];
